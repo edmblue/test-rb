@@ -47,8 +47,7 @@ CREATE TABLE `products_list` (
 INSERT INTO `products_list` (`id`, `sku`, `name`, `price`, `type`, `size`, `height`, `width`, `length`, `weight`) VALUES
 (51, 'bk-9856', 'Harry Potter Saga', '200.00', 'book', NULL, NULL, NULL, NULL, '12.00'),
 (52, 'frntr-9856', 'Wooden table', '200.00', 'furniture', NULL, '10.00', '20.00', '30.00', NULL),
-(53, 'dvd-9856', 'Rapidos y Furiosos', '20.00', 'dvd', '50.00', NULL, NULL, NULL, NULL),
-(81, 'bk-9810', 'userAdmin', '25.00', 'dvd', '20.00', NULL, NULL, NULL, NULL);
+(53, 'dvd-9856', 'Rapidos y Furiosos', '20.00', 'dvd', '50.00', NULL, NULL, NULL, NULL);
 
 --
 -- Índices para tablas volcadas
